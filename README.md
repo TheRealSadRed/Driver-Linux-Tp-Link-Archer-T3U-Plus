@@ -8,7 +8,7 @@ make sure we have NOT plugged in our tp-link device, and give the following comm
 
 sudo apt install gcc bc -y
 
-git clone https://github.com/RinCat/RTL88x2BU-Linux-Driver.git
+git clone https://github.com/TheRealSadRed/Driver-Linux-Tp-Link-Archer-T3U-Plus.git
 
 cd RTL88x2BU-Linux-Driver
 
