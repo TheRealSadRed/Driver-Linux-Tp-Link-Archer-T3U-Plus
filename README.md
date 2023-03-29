@@ -10,7 +10,7 @@ sudo apt install gcc bc -y
 
 git clone https://github.com/TheRealSadRed/Driver-Linux-Tp-Link-Archer-T3U-Plus.git
 
-cd RTL88x2BU-Linux-Driver
+cd Driver-Linux-Tp-Link-Archer-T3U-Plus
 
 make clean
 
